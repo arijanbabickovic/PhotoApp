@@ -3,6 +3,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.6'
 
+# SendGrid API key: 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
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.1.1'
 # Later added gems
